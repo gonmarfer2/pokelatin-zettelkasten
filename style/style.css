@@ -1,0 +1,17 @@
+@font-face {
+    font-family: ThraexMagnus;
+    src: url(../fonts/ThraexMagnus094.ttf);
+}
+
+@font-face {
+    font-family: Alola;
+    src: url(../fonts/alolan-smusum.ttf);
+}
+
+thraex {
+    font-family: "ThraexMagnus";
+}
+
+alola {
+    font-family: "Alola";
+}
