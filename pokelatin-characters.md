@@ -55,9 +55,4 @@ The variant of the PokéLatin script found in *Legends: Arceus* is slightly diff
 |s|<thraex>s</thraex>|t|<thraex>t</thraex>|u||v||w|<thraex>w</thraex>|x||
 |y||z||||||||||
 
-Additionally, the Kalosian script contains two diacritics, <thraex>~B</thraex> and <thraex>À</thraex>, woth limited use, as shown next.
-
-|Accent mark|Uses|
-|---|---|
-|<thraex>~</thraex>|<thraex>~B</thraex>&emsp;<thraex>~S</thraex>&emsp;<thraex>~w</thraex>|
-|<thraex>\`</thraex>|<thraex>\`R</thraex>&emsp;<thraex>\`D</thraex>&emsp;<thraex>\`P</thraex>&emsp;<thraex>\`q</thraex>&emsp;<thraex>\`e</thraex>|
+Additionally, the Kalosian script contains two diacritics, <thraex>~B</thraex> and <thraex>À</thraex>, woth limited use, as shown in [this document](./kalosian-diacritics.md).

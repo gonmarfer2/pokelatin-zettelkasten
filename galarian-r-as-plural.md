@@ -12,4 +12,4 @@ date: 2025-09-27
 
 <thraex>r</thraex> can possibly represent an **s** or a plural form, since the text <thraex>aqh</thraex> appears only after the number 1 whereas <thraex>aqhr</thraex> appears after 2,4 and 5.
 
-However, the [consistency](./galarian-consistency.md) of the Galarian <thraex>r</thraex> (r) is below 50%.
+However, the [consistency](./galarian-consistency-words.md) of the Galarian <thraex>r</thraex> (r) is below 50%.
