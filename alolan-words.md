@@ -52,6 +52,7 @@ date: 2025-09-27
 - <alola>TAGU</alola>: TAGU. It means "tag" in Japanese.
 - <alola>SURFING</alola>: SURFING. Flag at the surfing club.
 - <alola>UKEDAI</alola>. UKEDAI. Can be split into UKE(TSUKE) and DAI(RITEN) meaning "reception" and "agency", respectively. Sign found in the reception of the Battle Agency.
+- <alola>MAIMEN</alola>. Close friend: Ending scene letter
 
 ## Unsure
 
@@ -69,7 +70,7 @@ date: 2025-09-27
 ## Undeciphered
 
 - <alola>QMO ZBAMW. BJPLGVJCDEUJBSLONUZFUTED</alola>: Found in the juice 3d model
-- <alola>RIL(W)H OREDINE KNMHOMD HAU</alola> [...] <alola>MAIMEN</alola>: Ending scene letter
+- <alola>RIL(W)H ORE[-]INE KNMHOMD HAU</alola> [...] <alola>GOHAN MAIMEN</alola>: Ending scene letter
 - <alola>VZK</alola>: Muk tank top
 - <alola>AG</alola>: Tsareena tank top (Amaajo)
 - <alola>ADJI KREURYEQN AHSUUKAL</alola>: Letter in mailbox in the beginning of the game
